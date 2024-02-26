@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "iosfwd": "cpp",
+        "map": "cpp",
+        "sstream": "cpp",
+        "__hash_table": "cpp",
+        "__node_handle": "cpp",
+        "__tree": "cpp",
+        "functional": "cpp",
+        "unordered_map": "cpp",
+        "version": "cpp",
+        "iostream": "cpp"
+    }
+}
